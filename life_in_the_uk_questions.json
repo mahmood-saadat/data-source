@@ -1,0 +1,287 @@
+{
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the name given to the 40-day period leading up to Easter?",
+      "options": [
+        "Advent",
+        "Lent",
+        "Epiphany",
+        "Pentecost"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "Lent is the 40 days before Easter, a time when Christians historically fasted or gave up certain foods."
+    },
+    {
+      "id": 2,
+      "question": "The official Union Flag consists of the crosses of three countries. Which UK nation's flag is NOT represented in the Union Flag?",
+      "options": [
+        "Wales",
+        "Scotland",
+        "England",
+        "Northern Ireland"
+      ],
+      "correct_answer_index": 0,
+      "explanation": "The Welsh dragon does not appear on the Union Flag because, at the time the first flag was created in 1606, Wales was already united with England."
+    },
+    {
+      "id": 3,
+      "question": "What is the primary responsibility of the judiciary in the UK?",
+      "options": [
+        "To pass new legislation",
+        "To manage the police force",
+        "To interpret the law and ensure fair trials",
+        "To select the Prime Minister"
+      ],
+      "correct_answer_index": 2,
+      "explanation": "Judges collectively form 'the judiciary.' Their role is to interpret the laws passed by Parliament and ensure court trials are conducted fairly."
+    },
+    {
+      "id": 4,
+      "question": "In what year was the Habeas Corpus Act passed into law?",
+      "options": [
+        "1679",
+        "1215",
+        "1689",
+        "1801"
+      ],
+      "correct_answer_index": 0,
+      "explanation": "Passed in 1679, the Habeas Corpus Act guaranteed that no one could be held as a prisoner unlawfully without a court hearing."
+    },
+    {
+      "id": 5,
+      "question": "What term is used to describe the sustained German bombing campaigns on UK cities during the Second World War?",
+      "options": [
+        "The Dunkirk Evacuation",
+        "The Blitz",
+        "D-Day",
+        "The Battle of the Somme"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "The Blitz refers to the night-time bombing of London and other British cities by the German air force. The term comes from the German word 'Blitzkrieg', meaning lightning war."
+    },
+    {
+      "id": 6,
+      "question": "Why is the historical event of 1688 referred to as the 'Glorious Revolution'?",
+      "options": [
+        "Because it granted voting rights to women",
+        "Because it resulted in major technological achievements",
+        "Because the monarchy was restored with no armed conflict",
+        "Because the Spanish Armada was defeated"
+      ],
+      "correct_answer_index": 2,
+      "explanation": "It was called the Glorious Revolution because King James II fled to France and William of Orange took the throne without any fighting or bloodshed in England."
+    },
+    {
+      "id": 7,
+      "question": "Which of the following famous landmarks is situated in Greenwich, London?",
+      "options": [
+        "The O2",
+        "The SECC",
+        "The Eden Project",
+        "The Principality Stadium"
+      ],
+      "correct_answer_index": 0,
+      "explanation": "The O2 is a large entertainment venue located on the Greenwich Peninsula in South East London."
+    },
+    {
+      "id": 8,
+      "question": "Following the national referendum in 2016, in what year did the United Kingdom officially leave the European Union?",
+      "options": [
+        "2018",
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "correct_answer_index": 2,
+      "explanation": "The UK officially left the European Union on January 31, 2020, following the Brexit vote held in 2016."
+    },
+    {
+      "id": 9,
+      "question": "Sir Robert Walpole is widely recognized as the first British Prime Minister. During which period was he in power?",
+      "options": [
+        "1714-1721",
+        "1721-1742",
+        "1742-1746",
+        "1707-1714"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "Sir Robert Walpole served as Prime Minister from 1721 to 1742, making him the longest-serving Prime Minister in British history."
+    },
+    {
+      "id": 10,
+      "question": "Which nation within the UK has the thistle as its national flower?",
+      "options": [
+        "Northern Ireland",
+        "Wales",
+        "England",
+        "Scotland"
+      ],
+      "correct_answer_index": 3,
+      "explanation": "The thistle is the national flower of Scotland. England's is the rose, Wales has the daffodil, and Northern Ireland has the shamrock."
+    },
+    {
+      "id": 11,
+      "question": "Which 18th-century Scottish thinker developed highly influential economic ideas during the Enlightenment?",
+      "options": [
+        "Adam Smith",
+        "David Hume",
+        "Isaac Newton",
+        "James Watt"
+      ],
+      "correct_answer_index": 0,
+      "explanation": "Adam Smith was a key figure during the Scottish Enlightenment who developed ideas about economics that form the basis of modern capitalism."
+    },
+    {
+      "id": 12,
+      "question": "If you rent a single room in a shared house and want to watch live television in your room, do you need your own individual TV licence?",
+      "options": [
+        "True - you must buy a separate licence.",
+        "False - one licence covers the entire property regardless of rental agreements."
+      ],
+      "correct_answer_index": 0,
+      "explanation": "While one licence covers an entire address for a single household, people renting individual rooms under separate tenancy agreements must each have their own TV licence."
+    },
+    {
+      "id": 13,
+      "question": "Justices of the Peace (JPs) and Magistrates are typically drawn from which group?",
+      "options": [
+        "The Law Society",
+        "The local community",
+        "The Police Force",
+        "The ruling political party"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "Magistrates and JPs are unpaid members of the local community who decide minor cases in their local areas. They do not need legal qualifications."
+    },
+    {
+      "id": 14,
+      "question": "A two-minute silence is traditionally observed on Easter Sunday to honor the death of Jesus Christ.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "False. A two-minute silence is observed on Remembrance Day (Armistice Day) in November to commemorate those who died in wars, not on Easter."
+    },
+    {
+      "id": 15,
+      "question": "How long do 'Life Peers' serve in the House of Lords once nominated?",
+      "options": [
+        "For a maximum of 10 years",
+        "For their entire lifetime",
+        "Until the next general election",
+        "Until the Prime Minister who nominated them resigns"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "Life Peers are appointed for their lifetime and their title cannot be inherited by their children. They are usually nominated by the Prime Minister."
+    },
+    {
+      "id": 16,
+      "question": "The Battle of Agincourt was a famous military conflict fought between which two nations?",
+      "options": [
+        "England and Scotland",
+        "England and France",
+        "Scotland and Wales",
+        "England and Spain"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "The Battle of Agincourt took place in 1415. King Henry V of England famously defeated the French army despite being heavily outnumbered."
+    },
+    {
+      "id": 17,
+      "question": "Which prominent figure is credited with establishing the National Health Service (NHS) in the UK in 1948?",
+      "options": [
+        "Winston Churchill",
+        "Florence Nightingale",
+        "Aneurin Bevan",
+        "Clement Attlee"
+      ],
+      "correct_answer_index": 2,
+      "explanation": "Aneurin (Nye) Bevan, the Minister of Health in the post-war Labour government, spearheaded the creation of the NHS to provide healthcare based on need, free at the point of use."
+    },
+    {
+      "id": 18,
+      "question": "The Speaker of the House of Commons is a standard Member of Parliament (MP) who represents a constituency and deals with local issues.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer_index": 0,
+      "explanation": "True. The Speaker remains an MP and represents their local constituency's issues, even though their primary role is to neutrally chair the debates in the House of Commons."
+    },
+    {
+      "id": 19,
+      "question": "During the 16th and 17th centuries, the Puritans advocated for stricter religious practices. Which branch of religion did they follow?",
+      "options": [
+        "Catholicism",
+        "Judaism",
+        "Buddhism",
+        "Protestantism"
+      ],
+      "correct_answer_index": 3,
+      "explanation": "Puritans were strict Protestants who believed that the Church of England needed to be 'purified' of its remaining Catholic practices and rituals."
+    },
+    {
+      "id": 20,
+      "question": "Who holds the authority to nominate individuals to become Life Peers in the House of Lords?",
+      "options": [
+        "The Monarch",
+        "The Prime Minister",
+        "The Speaker",
+        "The Archbishop of Canterbury"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "The Prime Minister nominates Life Peers. The Monarch officially grants the title, but this is done solely on the advice of the Prime Minister."
+    },
+    {
+      "id": 21,
+      "question": "The Second World War was triggered when Adolf Hitler ordered the invasion of which country in 1939?",
+      "options": [
+        "France",
+        "The Soviet Union (USSR)",
+        "Poland",
+        "Austria"
+      ],
+      "correct_answer_index": 2,
+      "explanation": "Britain and France declared war on Germany in September 1939 immediately after Hitler invaded Poland."
+    },
+    {
+      "id": 22,
+      "question": "What is the name of the famous recurring cricket series played exclusively between England and Australia?",
+      "options": [
+        "The Classics",
+        "The Ashes",
+        "The Masters",
+        "The Lords Trophy"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "The Ashes is a legendary Test cricket series. The name originated from a satirical obituary stating that English cricket had died and 'the body will be cremated and the ashes taken to Australia'."
+    },
+    {
+      "id": 23,
+      "question": "In England and Wales, the 'small claims' court procedure is designed to settle minor financial disputes. What is the maximum claim amount allowed under this informal procedure?",
+      "options": [
+        "£2,000",
+        "£5,000",
+        "£10,000",
+        "£20,000"
+      ],
+      "correct_answer_index": 2,
+      "explanation": "The small claims procedure in England and Wales handles claims of less than £10,000. It is an informal way to settle disputes without needing a lawyer."
+    },
+    {
+      "id": 24,
+      "question": "Following the departure of the Roman Empire in AD 410, which two tribal groups primarily invaded and settled in Britain?",
+      "options": [
+        "The Normans and the French",
+        "The Vikings and the Celts",
+        "The Anglo-Saxons and the Jutes",
+        "The Picts and the Scots"
+      ],
+      "correct_answer_index": 2,
+      "explanation": "After the Romans left, Britain was invaded by tribes from northern Europe, primarily the Jutes, the Angles, and the Saxons (collectively known as the Anglo-Saxons)."
+    }
+  ]
+}
