@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "questions": [
   {"id": 1, "question": "What is the name given to the 40-day period leading up to Easter?", "options": ["Advent", "Lent", "Epiphany", "Pentecost"], "correct_answer_index": 1, "explanation": "Lent is the 40 days before Easter, a time when Christians historically fasted or gave up certain foods."},
   {"id": 2, "question": "The official Union Flag consists of the crosses of three countries. Which UK nation's flag is NOT represented in the Union Flag?", "options": ["Wales", "Scotland", "England", "Northern Ireland"], "correct_answer_index": 0, "explanation": "The Welsh dragon does not appear on the Union Flag because, at the time the first flag was created in 1606, Wales was already united with England."},
